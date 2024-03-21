@@ -1,0 +1,24 @@
+body{
+    background-color:gray;
+    display: flex; 
+    align-items: center; 
+    flex-direction: column; 
+    text-align: center;
+}
+a{
+    color: blue;
+}
+img{
+    border-radius: 50%;
+}
+table, th, td {
+    border:1px solid black;
+  }
+  .Conteiner{
+      display: flex;
+      align-items: center;
+  }
+  button{
+      background-color: rgb(112, 216, 27);
+      color: black;
+  }
