@@ -8,6 +8,11 @@ body{
 a{
     color: blue;
 }
+div.branco{
+    text-align: left;
+    background-color: beige;
+    flex-direction: column;
+}
 img{
     border-radius: 50%;
 }
